@@ -81,7 +81,7 @@ Example inputs:
 |----------|-------------|---------|
 | `ami_id` | AMI ID for EC2 instances | `ami-05ffe3c48a9991133` |
 | `instance_type` | EC2 instance type | `t3.micro` |
-| `key_name` | Name of your EC2 key pair | `ec2-tutorial` |
+| `key_name` | Name of your EC2 key pair | `ec2-default` |
 | `project_name` | Project resource name prefix | `aws-ha-webapp` |
 
 ## ⚡️ How to Deploy
